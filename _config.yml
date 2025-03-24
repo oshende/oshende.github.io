@@ -1,11 +1,11 @@
 remote_theme: BDHU/minimalist
 color-scheme: auto/dark
 title: Omkar B. Shende
-description: 
+description: My site
 logo: ./assets/images/profile.jpeg
 sidebar:
   - name: Google Scholar
-    icon: <i class="fa-solid fa-user"></i>
+    icon: <i class="fa-solid fa-book-open"></i>
     link: https://scholar.google.com/citations?user=LCY03RAAAAAJ&hl
   - name: CV
     icon: <i class="fa-solid fa-file-pdf"></i> 
