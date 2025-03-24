@@ -1,7 +1,7 @@
 remote_theme: BDHU/minimalist
 color-scheme: auto/dark
 title: Omkar B. Shende
-description: My site
+description: Computational scientist
 logo: ./assets/images/profile.jpeg
 sidebar:
   - name: Google Scholar
