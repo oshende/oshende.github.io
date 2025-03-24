@@ -3,6 +3,7 @@ color-scheme: auto/dark
 title: Omkar B. Shende
 description: Computational scientist
 logo: ./assets/images/profile.jpeg
+google_analytics: G-ENZEGQ985T
 sidebar:
   - name: Google Scholar
     icon: <i class="fa-solid fa-book-open"></i>
