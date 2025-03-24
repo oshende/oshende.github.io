@@ -2,7 +2,7 @@
 
 I am a postdoctoral research associate at the [<span style="color:blue">Los Alamos National Laboratory</span>](https://www.lanl.gov) as part of the LANL SPARC at the [<span style="color:gold;">University of Michigan, Ann Arbor</span>](https://umich.edu). I received my Ph.D. from the department of Mechanical Engineering at Stanford University in December 2024. I graduated in 2018 with a B.S.E. in mechanical and aerospace engineering from Princeton University and an M.S. in mechanical engineering from Stanford University in 2020. My current projects in the Computational Physics division revolve around quantifying the interactions between turbulence and reacting scalar fields in complex flows, as well as the role of multiphysics on momentum and scalar transport more generally in reduced-order systems. 
 
-Outside of work, I enjoy cooking, reading, hiking, and racquet sports. I was also part of [<span style="color:crimson;">Stanford SeeMe</span>](https://seeme.stanford.edu), an outreach program affiliated with the Department of Mechanical Engineering.
+Outside of work, I enjoy cooking, reading, hiking, and racquet sports. I was also part of the [<span style="color:crimson;">Stanford SeeMe</span>](https://seeme.stanford.edu) outreach program.
 
 ## My work
 
