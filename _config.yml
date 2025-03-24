@@ -6,7 +6,7 @@ logo: ./assets/images/profile.jpeg
 sidebar:
   - name: Google Scholar
     icon: <i class="fa-solid fa-user"></i>
-    link: 
+    link: https://scholar.google.com/citations?user=LCY03RAAAAAJ&hl
   - name: Curriculum Vitae
     icon: <i class="fa-solid fa-file-pdf"></i> 
     link: ./assets/docs/ShendeOmkarCV.pdf
