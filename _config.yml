@@ -9,7 +9,7 @@ sidebar:
     link: 
   - name: Curriculum Vitae
     icon: <i class="fa-solid fa-file-pdf"></i> 
-    link: ./
+    link: ./assets/docs/ShendeOmkarCV.pdf
   - name: Email
     icon: <i class="fa-solid fa-envelope"></i>
     link: mailto:oshende@stanford.edu
