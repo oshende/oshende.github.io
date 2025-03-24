@@ -8,8 +8,8 @@ sidebar:
     icon: <i class="fa-solid fa-book-open"></i>
     link: https://scholar.google.com/citations?user=LCY03RAAAAAJ&hl
   - name: CV
-    icon: <i class="fa-solid fa-file-pdf"></i> 
+    icon: <i class="fa-solid fa-graduation-cap"></i> 
     link: ./assets/docs/ShendeOmkarCV.pdf
   - name: Email
-    icon: <i class="fa-solid fa-envelope"></i>
+    icon: <i class="fa-solid fa-inbox"></i>
     link: mailto:oshende@stanford.edu
